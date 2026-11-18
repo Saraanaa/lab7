@@ -1,6 +1,6 @@
 # Lab 07 — Session-Based Test Management
 
-Оюутан: Saraanaa
+Оюутан: Г. Саранчимэг B232274001
 
 Код: `node app.js`
 
