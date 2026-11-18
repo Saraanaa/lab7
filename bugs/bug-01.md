@@ -17,3 +17,5 @@
 
 Олсон аялал: Fed-Ex.
 
+Хавсралт: [screenshots/bug-01.png](../screenshots/bug-01.png)
+

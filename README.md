@@ -16,7 +16,7 @@ Node хувилбар: `v22.19.0`
 - [session-report.md](./session-report.md) — туршилтын явц, саад, цагийн зарцуулалт
 - [bugs/](./bugs/) — тус бүрдээ нэг үндэслэлтэй согогийн тайлан
 - [evidence/](./evidence/) — API туршилтын бүтэн гаралт
-- [screenshots/](./screenshots/) — UI нотолгооны зураг
+- [screenshots/](./screenshots/) — UI нотолгооны зураг ([BUG-01](./screenshots/bug-01.png))
 
 ## Дүгнэлт
 
