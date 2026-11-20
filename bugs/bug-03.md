@@ -14,5 +14,6 @@
 
 Ноцтой байдал: Major — хэрэглэгчийн хайлт бодит үр дүнг алгасаж байна.
 
-Олсон аялал: Supermodel.
+Олсон аялал: Supermodel.  
+Хавсралт: [screenshots/bug-03.png](../screenshots/bug-03.png)
 

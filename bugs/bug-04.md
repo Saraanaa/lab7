@@ -4,8 +4,9 @@
 
 ## Дахин гаргах алхам
 
-1. Буруу JSON body бүхий POST хүсэлт илгээнэ.
-2. Бүтэн HTTP гаралтыг `evidence/bug-04-curl.txt`-оос шалгана.
+1. `invalid.json` файлд яг `{ "title":` гэж бичнэ.
+2. `curl.exe -i -X POST http://localhost:3000/api/books -H "Content-Type: application/json" --data-binary "@invalid.json" | Tee-Object -FilePath evidence/bug-04-curl.txt` ажиллуулна.
+3. Бүтэн HTTP гаралтыг `evidence/bug-04-curl.txt`-оос шалгана.
 
 Хүлээгдэж байсан: HTTP 400 болон ойлгомжтой алдааны мэдээлэл.
 
@@ -13,5 +14,6 @@
 
 Ноцтой байдал: Critical — API-ийн алдааны contract зөрчигдөж байна.
 
-Олсон аялал: Saboteur.
+Олсон аялал: Saboteur.  
+Хавсралт: [evidence/bug-04-curl.txt](../evidence/bug-04-curl.txt)
 

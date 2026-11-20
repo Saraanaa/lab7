@@ -13,5 +13,6 @@
 
 Ноцтой байдал: Minor — хэрэглэгчийн feedback буруу байна.
 
-Олсон аялал: Supermodel.
+Олсон аялал: Supermodel.  
+Хавсралт: [screenshots/bug-08.png](../screenshots/bug-08.png)
 

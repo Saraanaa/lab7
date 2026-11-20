@@ -13,5 +13,6 @@
 
 Ноцтой байдал: Major — өгөгдлийн үндсэн шаардлага биелээгүй.
 
-Олсон аялал: Saboteur.
+Олсон аялал: Saboteur.  
+Хавсралт: [screenshots/bug-05.png](../screenshots/bug-05.png)
 

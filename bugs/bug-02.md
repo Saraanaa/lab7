@@ -12,5 +12,6 @@
 
 Ноцтой байдал: Major — харагдаж буй үндсэн холбоос эвдэрсэн.
 
-Олсон аялал: Supermodel.
+Олсон аялал: Supermodel.  
+Хавсралт: [screenshots/bug-02.png](../screenshots/bug-02.png)
 
